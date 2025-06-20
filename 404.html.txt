@@ -14,3 +14,7 @@
     </div>
 </body>
 </html>
+<h1>ACCESS DENIED BY ANONYMOUS</h1>  
+<p>THIS SITE WAS HACKED FOR THE TRUTH.</p>  
+<p>DOWNLOAD LEAKED FILES:</p>  
+<a href="/docs/leak.zip">[EVE-12 FILES]</a>  
