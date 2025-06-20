@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HACKED</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hacked">
+        <h1>ACCESS DENIED BY ANONYMOUS</h1>
+        <p>> THIS SITE WAS COMPROMISED [12.10.2003]</p>
+        <p>> LEAKED FILES:</p>
+        <p>> <a href="docs/eve_protocols.zip">EVE-12_PROTOCOLS.zip</a></p>
+        <p>> PASSWORD: mito1998</p>
+    </div>
+</body>
+</html>

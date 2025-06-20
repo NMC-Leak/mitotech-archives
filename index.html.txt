@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MitoTech Internal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="terminal">
+        <h1>MITOTECH DATABASE v3.1.2</h1>
+        <p>> ACCESS LEVEL: <span class="redacted">[REDACTED]</span></p>
+        <p>> LAST ENTRY: 24.12.2002</p>
+        <p>> <a href="project_mev.html">TRY TO ACCESS</a></p>
+        <p class="blink">> WARNING: UNAUTHORIZED ACCESS DETECTED</p>
+    </div>
+</body>
+</html>
