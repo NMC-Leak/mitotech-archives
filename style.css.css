@@ -31,3 +31,19 @@ body {
     color: red;
     text-shadow: 0 0 5px #f00;
 }
+body {  
+  background: #000 url('img/static.gif');  
+  font-family: 'Courier New', monospace;  
+  color: #0f0; /* Зелёный текст */  
+}  
+
+.redacted {  
+  background: #000;  
+  color: #000;  
+  padding: 0 10px;  
+}  
+
+.glitch-text {  
+  text-shadow: 0 0 5px red;  
+  animation: glitch 1s infinite;  
+}  
